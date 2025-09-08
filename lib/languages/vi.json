@@ -1,0 +1,24 @@
+{
+  "welcome": "Chào mừng",
+  "welcome_message": "Chào mừng bạn đến với hệ thống",
+  "company_name": "R",
+  "language": "Ngôn ngữ",
+  "vietnamese": "Tiếng Việt",
+  "english": "Tiếng Anh",
+  "change_language": "Thay đổi ngôn ngữ",
+  "success": "Thành công",
+  "language_changed_successfully": "Thay đổi ngôn ngữ thành công",
+  "login_screen": "Trang đăng nhập",
+  "login_caption": "Nhập tài khoản và mật khẩu của bạn",
+  "user_name_login": "Tên tài khoản",
+  "password_login":"Mật khẩu",
+  "login_button":"Đăng nhập",
+
+
+  "app_title": "Ứng dụng của tôi",
+  "home": "Trang chủ",
+  "profile": "Hồ sơ",
+  "logout": "Đăng xuất",
+  "cancel": "Hủy",
+  "confirm": "Xác nhận"
+}

@@ -1,0 +1,23 @@
+{
+  "welcome": "Welcome",
+  "welcome_message": "Come Join Us",
+  "company_name": "R",
+  "language": "Language",
+  "vietnamese": "Vietnamese",
+  "english": "English",
+  "change_language": "Change Language",
+  "success": "Success",
+  "language_changed_successfully": "Change Language Completed",
+  "login_screen": "Login Screen",
+  "login_caption": "Typing you account and password",
+  "user_name_login": "User Name",
+  "password_login":"Password",
+  "login_button":"Login",
+  
+  "app_title": "My Application",
+  "home": "Home",
+  "profile": "Profile",
+  "logout": "Logout",
+  "cancel": "Cancel",
+  "confirm": "Confirm"
+}
